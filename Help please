@@ -1,0 +1,16 @@
+{
+  "enableAnrDetection" : false,
+  "timestamp" : 1571256358714,
+  "autoScreenshot" : false,
+  "enableJsAgent" : true,
+  "enableAnrStackTrace" : false,
+  "enableCrashReporting" : true,
+  "enableScreenshot" : false,
+  "enableJsAgentSPA" : true,
+  "anrThreshold" : 3000,
+  "screenshotUseCellular" : false,
+  "enableFeatures" : [
+    "crashes"
+  ],
+  "enableJsAgentAjax" : false
+}
